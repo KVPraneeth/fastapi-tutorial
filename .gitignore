@@ -1,0 +1,4 @@
+__pycasce__
+venv/
+.vscode/
+*.pyc
